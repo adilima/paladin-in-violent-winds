@@ -1,4 +1,4 @@
-# paladin-in-violent-winds
+# Paladin in Violent Winds
 
 Here is an outline of the story from the [English translation](https://foxswuxia.wordpress.com/condor-trilogy-heaven-sword-dragon-saber/yttlj-chapter-40/) of Jinyong's novel Yitian Tulong Ji (The Heavenly Sword and the Dragon Sabre):
 
