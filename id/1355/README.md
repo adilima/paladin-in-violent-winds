@@ -14,3 +14,6 @@ Ada beberapa versi sudah pernah saya tulis untuk menyambung cerita secara mulus,
 - Keraguan Zhang Wuji di atas sebenarnya sudah dimulai jauh sebelumnya, yaitu ketika ia bersama Zhao Min bertemu dengan Chaghan Temur, di mana ia menyadari bahwa ada penghalang yang sangat serius dalam hubungannya dengan Zhao Min.
 
 Tulisan awal saya dalam "Bab 40-A" dalam direktori base akan selalu bisa dijadikan panduan bagi pergerakan awal cerita.
+
+Isi direktori ini menggunakan [Bab 40-A](../base/bab40-A.md) sebagai landasan menulis, dengan membuat beberapa perubahan yang perlu.
+
