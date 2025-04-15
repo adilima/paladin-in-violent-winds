@@ -21,3 +21,84 @@ Here is an outline of the story from the [English translation](https://foxswuxia
 - Zhang Wuji and Zhou Zhiruo discuss the events, and Zhou Zhiruo questions Zhang Wuji about his feelings for Zhao Min.
 - Zhang Wuji explains his actions, and Zhou Zhiruo asks him about the four women who love him.
 
+Taking the scene `Zhou Zhiruo threatens Zhang Wuji with a sword, claiming Yin Li's ghost is haunting her` as an opening, the narrations can look like this:
+
+```text
+The flickering torchlight danced across Zhou Zhiruo's face, casting long,
+distorted shadows that writhed like vengeful spirits. Her grip on the sword trembled,
+not entirely from fear, but from a chilling conviction that clung to her like grave dust.
+Her eyes, usually serene, were wide and haunted, fixed on Zhang Wuji with a desperate terror.
+
+"It's her!" she gasped, her voice a ragged whisper that seemed to carry the icy breath of the grave.
+"Yin Li... she's here. I saw her... her face... all twisted... blaming me!"
+
+The air in the small chamber felt heavy, thick with an unseen presence.
+A low moan seemed to echo from the shadows, though Zhang Wuji heard nothing
+but Zhou Zhiruo's frantic breaths. The accusation hung between them, sharp and deadly
+as the blade she wielded, painting a gruesome tableau of guilt and spectral vengeance.
+```
+**Cut off to Yin Li scene***
+
+## Transition to Dialogue
+
+Yin Li looked at him with a tender expression for a long, long time.
+Her eyes changed irregularly. Finally, she shook her head and said,
+“Aniu Gege, you don’t understand. In the western region desert, you and I
+have gone through live and death situation together. On that small
+island, you were extremely good to me. You are a good man. But I have
+already told you, I have given my heart to that Zhang Wuji for a long
+time. I am going to find him. Tell me, do you think if I find him, he
+would still beat me, scold me or bite me?”
+
+Without waiting for Zhang Wuji to answer, she turned around and slowly walked away.
+
+Suddenly Zhang Wuji understood. Turned out the one she truly loved
+was the Zhang Wuji who lived in her memory, the Zhang Wuji she met in
+the Butterfly Valley, the one who beat her and bite her, the obstinate
+Zhang Wuji who refused to follow her; not the real Zhang Wuji, the grown
+up Zhang Wuji who was extremely tolerant and always treated people with
+kindness. One third part of his heart was wounded, one third of it was
+reluctant to let her go, yet the other third part was relieved. He
+followed her with his gaze until her shadow disappeared into the
+darkness. He knew that for the rest of her life, Yin Li would always
+remember the very strong teenage boy of the Butterfly Valley, and that
+she would always want to find him. He realized that she would never find
+the one she was looking for, but then again, he could say that she had
+already found him, because that boy had always lived in her heart. Isn’t
+it true that oftentimes, the real person, the actual matter, is not as
+good as the one inside one’s memory?
+
+Zhou Zhiruo sighed and said, “It’s all my fault. I harmed her so bad that she turns crazy.”
+
+Yet Zhang Wuji thought, “She might be a little confused, and that was
+because of me. But compared to a clear-minded person, she is not
+necessarily less happy.”
+
+Zhao Min, however, had another matter in her mind. Yin Li had gone,
+but what about Zhou Zhiruo? Yin Li had not died, Xie Xun had been found,
+safe and well, the martial art manual concealed inside the Yitian
+Sword, as well as the military strategy manual inside the Tulong Saber,
+along with the Saber itself, had been recovered and returned to Zhang
+Wuji. In short, it appeared that Zhou Zhiruo’s offenses and mistakes had
+not turned to the worst. While it was true that Song Qingshu had killed
+Mo Shenggu because of her, but it was Song Qingshu’s own crime; Zhou
+Zhiruo actually did not have any foreknowledge of the matter, also, she
+certainly did not instigate the incident. Zhang Wuji had had an
+engagement with her before, and he was not the kind of man who would
+abandon trust and uprightness.
+
+Zhou Zhiruo stood up. “Let’s go!” she said.
+
+“Where?” Zhao Min asked.
+
+Zhou Zhiruo replied, “When I was at the Shaolin Temple just now, I
+saw **Zhang Zhong** came in a hurry to look for him,” she gestured
+toward Zhang Wuji. “Apparently, there is some important matter within
+the Ming Cult.”
+
+----
+
+Notice that I've changed the original cast of Peng Yingyu to Zhang Zhong
+in the above scene. This is a preparation for various changes in some
+other places.
+
