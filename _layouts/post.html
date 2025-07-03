@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/w3.css' | relative_url }}">
+</head>
+<body>
+  <main class="w3-main w3-container w3-padding-16">
+    <header class="w3-container w3-teal">
+      <h1>{{ site.title }}</h1>
+    </header>
+
+    <article class="w3-card w3-padding">
+      <h2>{{ page.title }}</h2>
+      <p><small>{{ page.date | date: "%A %B %d, %Y" }}</small></p>
+      {{ content }}
+    </article>
+
+    <footer class="w3-container w3-light-grey w3-padding">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </footer>
+  </main>
+</body>
+</html>

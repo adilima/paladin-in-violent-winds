@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/w3.css' | relative_url }}">
+</head>
+<body>
+  <header class="w3-container">
+    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+    <p>{{ site.description }}</p>
+  </header>
+
+  <main class="w3-main w3-container" aria-label="Content">
+    <div class="w3-panel w3-content">
+        {{ content }}
+    </div>
+  </main>
+
+  <div class="w3-panel w3-content">
+    <ul class="w3-ul w3-card-4 w3-row-padding w3-round w3-border">
+      <div class="w3-container w3-padding-16">
+      {% for post in site.posts %}
+        <li class="w3-hover-blue">
+          <h3>{{ post.title }}</h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+          <div class="w3-container">
+            {{ post.excerpt }}
+          </div>
+        </li>
+      {% endfor %}
+      </div>
+    </ul>
+  </div>
+
+  <footer class="w3-container">
+    <p>{{ site.author.name }}, &copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+  </footer>
+</body>
+</html>

@@ -1,9 +1,9 @@
 ---
 layout: home
-title: README
+title: Dinasti Yuan, 1357 - 1358
 ---
 
-# README
+### Dinasti Yuan, 1357 - 1358
 
 Semua peristiwa ini terjadi di bulan Juni, Juli, Agustus dan September 1357.
 
@@ -17,5 +17,4 @@ Semua peristiwa ini terjadi di bulan Juni, Juli, Agustus dan September 1357.
 ## Pemberontakan Ni Wenjun
 
 Tepat setelah pemberontakan Ni Wenjun, Zhang Wuji bergerak untuk menduduki Xiangyang. Peristiwa ini diceritakan sejak Bab 40 B.
-
 
